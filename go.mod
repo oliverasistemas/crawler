@@ -1,4 +1,4 @@
-module crawler
+module github.com/oliverasistemas/webcrawler
 
 go 1.20
 
