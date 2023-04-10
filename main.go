@@ -1,9 +1,9 @@
 package main
 
 import (
-	"crawler/pagedownloader"
-	"crawler/url_extractor"
 	"fmt"
+	"github.com/oliverasistemas/webcrawler/pagedownloader"
+	"github.com/oliverasistemas/webcrawler/url_extractor"
 	"log"
 	"os"
 	"os/signal"
